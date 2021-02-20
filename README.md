@@ -1,11 +1,9 @@
 # apitester
  Apache Camel ApiTester
  
-#Rerequisites
-
+# Prerequisites
 git clone https://github.com/gokulnathrajendran/spring-boot-jpa-h2
- 
- run the application as in Read me file. 
+run the application as in Read me file for the above project. 
  
 # API Calls
 `http://localhost:8081/camel/api` - Default Spring API  
